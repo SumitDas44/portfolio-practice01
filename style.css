@@ -41,19 +41,20 @@ body {
 img {
   width: 100%;
 }
+#line {
+  background-color: white;
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-right: 550px;
+  height: 110px;
+  border-radius: 10px;
+}
 #block-two-one {
   font-family: "Poppins", sans-serif;
   color: black;
   font-size: 50px;
-  padding-left: 200px;
-  margin-top: 70px;
-}
-#block-two-two {
-  font-family: "Poppins", sans-serif;
-  color: black;
-  font-size: 50px;
-  padding-left: 200px;
-  margin-top: -30px;
+  padding-left: 220px;
+  margin-top: -130px;
 }
 h4 {
   font-family: "Poppins", sans-serif;
