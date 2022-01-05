@@ -1,0 +1,150 @@
+.block-one {
+  display: inline;
+}
+#header-one {
+  font-family: "Poppins", sans-serif;
+  color: white;
+  padding-right: 100px;
+  padding-left: 200px;
+}
+#header-two {
+  font-family: "Poppins", sans-serif;
+  color: white;
+  padding-right: 50px;
+  padding-left: 600px;
+}
+#header-three {
+  font-family: "Poppins", sans-serif;
+  color: white;
+  padding-right: 50px;
+}
+#header-four {
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
+#first-block {
+  background-color: black;
+  padding-top: 50px;
+  width: 100%;
+  height: 50px;
+}
+body {
+  margin: 0;
+}
+.half-width {
+  width: 50%;
+}
+.flexible-container {
+  display: flex;
+  margin-bottom: 120px;
+}
+img {
+  width: 100%;
+}
+#block-two-one {
+  font-family: "Poppins", sans-serif;
+  color: black;
+  font-size: 50px;
+  padding-left: 200px;
+  margin-top: 70px;
+}
+#block-two-two {
+  font-family: "Poppins", sans-serif;
+  color: black;
+  font-size: 50px;
+  padding-left: 200px;
+  margin-top: -30px;
+}
+h4 {
+  font-family: "Poppins", sans-serif;
+  color: black;
+  padding-left: 200px;
+  margin-top: -35px;
+  font-size: 25px;
+}
+#block-two-p {
+  font-family: "Poppins", sans-serif;
+  color: black;
+  padding-left: 200px;
+  padding-right: 150px;
+  margin-top: -20px;
+  margin-bottom: 50px;
+}
+html {
+  background-color: rgb(255, 72, 0);
+}
+#link-button-one {
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  background-image: linear-gradient(orange, tomato);
+  color: white;
+  font-weight: 700;
+  padding: 10px 40px;
+  border-radius: 5px;
+  margin-left: 200px;
+}
+#link-button-two {
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  background-image: linear-gradient(orange, tomato);
+  color: white;
+  font-weight: 700;
+  padding: 10px 40px;
+  border-radius: 5px;
+}
+#first-img {
+  box-shadow: 10px 10px 30px gray;
+}
+#middle-p-one {
+  text-align: center;
+  font-size: 30px;
+  color: rgb(197, 172, 221);
+  font-family: "Cairo", sans-serif;
+}
+#middle-p-two {
+  text-align: center;
+  font-size: 50px;
+  color: black;
+  font-family: "Shizuru", cursive;
+}
+#middle-div {
+  background-color: rgb(230, 177, 78);
+  width: 100%;
+  height: 10px;
+}
+#second-img {
+  align-items: center;
+  width: 50%;
+  padding-left: 300px;
+  box-shadow: 10px 10px 30px orange;
+  border-radius: 15px;
+}
+#section-two-p {
+  font-size: 35px;
+  font-family: "Roboto Slab", serif;
+  color: rgb(82, 53, 15);
+  padding-top: 25px;
+  padding-right: 110px;
+  padding-left: 100px;
+}
+.section-two-p-too {
+  font-size: 30px;
+  color: aqua;
+  padding-left: 80px;
+  font-family: "Island Moments", cursive;
+}
+footer {
+  background-color: rgb(71, 71, 224);
+  width: 100%;
+  height: 200px;
+}
+#footer-p {
+  padding-top: 150px;
+  color: aqua;
+  text-align: center;
+}
+#fb {
+  padding-left: 500px;
+  width: 40px;
+  height: 40px;
+}
